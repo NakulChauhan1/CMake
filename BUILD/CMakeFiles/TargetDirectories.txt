@@ -1,0 +1,3 @@
+/home/nakul/myworkspace/CMake/BUILD/CMakeFiles/helloworld.dir
+/home/nakul/myworkspace/CMake/BUILD/CMakeFiles/edit_cache.dir
+/home/nakul/myworkspace/CMake/BUILD/CMakeFiles/rebuild_cache.dir
